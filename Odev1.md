@@ -3,19 +3,18 @@
 Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
 Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+------|---------------|--------
+9-B   |Kadir İ. YILMAZ| 553
+9-B   |Ömer M. İnanç  | 519
+9-B   |Alican Özdemir | 551
 
-#  (buraya proje başlığını yazınız)
+#  (Thick Lens)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+İnce kenarlı mercekler paralel gelen ışınları bir noktada toplarlar.Bir kaç ışını belirli bir noktada topladıkları için ısı toplanır ve ateş oluşumu gözlemlenir.Örneğin güneşli bir günde büyüteci bir kağıt parçasına doğru tutarsak bir süre sonra kağıt parçasının yandığını gözlemleriz.Bu nedenle ormanlardaki kırık cam parçalarının orman yangınlarına sebep olduğunu söyleyebiliriz.Aynı şekilde su damlaları ince kenarlı mercek yerine kullanılırsa ışınları bir noktada toplar ve ateş yakabilir. 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 
+ 1. https://lifehacker.com/5954144/start-a-fire-with-water-and-plastic-wrap
+ 2. https://aaspot.net/images/2017/04/buz-kullanarak-ates-yakmak.jpg
+ 3. https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lens1.svg/390px-Lens1.svg.png
 
